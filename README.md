@@ -5,8 +5,8 @@ My [Advent of Code 2025](http://adventofcode.com/2025/) solutions!
 | Day | Part A               | PartB                | Notebook             |
 | --- | -------------------- | -------------------- | -------------------- |
 | 1   | [a.py](./pub/1/a.py) | [b.py](./pub/1/b.py) | [1.ipynb](./1.ipynb) |
-| 2   | [a.py](./pub/2/a.py) | [b.py](./pub/2/b.py) | [1.ipynb](./2.ipynb) |
-| 3   | [a.py](./pub/3/a.py) | [b.py](./pub/3/b.py) | [1.ipynb](./3.ipynb) |
+| 2   | [a.py](./pub/2/a.py) | [b.py](./pub/2/b.py) | [2.ipynb](./2.ipynb) |
+| 3   | [a.py](./pub/3/a.py) | [b.py](./pub/3/b.py) | [3.ipynb](./3.ipynb) |
 | 4   | a.py                 | b.py                 | 4.ipynb              |
 | 5   | a.py                 | b.py                 | 5.ipynb              |
 | 6   | a.py                 | b.py                 | 6.ipynb              |
